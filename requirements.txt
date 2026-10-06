@@ -1,0 +1,7 @@
+streamlit
+pandas
+opencv-python
+numpy
+requests
+zxing-cpp
+openpyxl
